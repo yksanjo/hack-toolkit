@@ -1,5 +1,12 @@
 # hack-toolkit
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/hack-toolkit/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/hack-toolkit/actions)
+![License](https://img.shields.io/github/license/yksanjo/hack-toolkit)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/hack-toolkit)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/hack-toolkit)
+
 ## Detailed Description
 
 hack-toolkit is maintained as an industry-grade software project with production-ready engineering practices.  
